@@ -1,0 +1,16 @@
+.title-text {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+.project-title {
+    font-size: 3em;
+    font-weight: 100;
+}
+.project-sub-title {
+    font-weight: 100;
+    font-size: 1.1em;
+    margin-top: -2.6em;
+}
