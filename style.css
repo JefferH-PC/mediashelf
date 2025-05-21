@@ -1,9 +1,12 @@
 @import url(assets/header.css);
 @import url(assets/title.css);
 @import url(assets/right-now.css);
+@import url(assets/list.css);
+
 body {
     margin: 0;
     padding: 0;
     background-color: #2e2e2e;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100vw;
 }

@@ -5,18 +5,21 @@
     width: 80vw;
     justify-content: space-between;
 }
+
 .right-now-img {
     height: 12.5em;
     border: 0.06em solid white;
     border-radius: 1.1em;
     margin-top: -1em;
 }
+
 .content-info {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
+
 .now-text {
     font-weight: 100;
 }
