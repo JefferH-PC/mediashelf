@@ -10,6 +10,9 @@
 .show-all-games {
     display: none;
 }
+.show-all-games:checked~.extra-list {
+    display: none;
+}
 
 .list-title {
     font-size: 2.2em;
@@ -34,11 +37,12 @@
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .list-img {
     height: 10.5em;
     border: 0.06em solid white;
     border-radius: 1.1em;
+    margin-top: 0.5em;
 }
