@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 844 1214" width="844" height="1214">
+	<title>MediaShelf-content-layout</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h844v1214h-844z"/>
+		</clipPath>
+	</defs>
+	<style>
+	</style>
+	<g id="Artboard 1" clip-path="url(#cp1)">
+		<rect width="844" height="1214" id="Preencher com Cor Sólida 1" style="fill: #000000"/>
+	</g>
+</svg>

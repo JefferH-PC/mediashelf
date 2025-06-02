@@ -10,7 +10,24 @@
 .show-all-games {
     display: none;
 }
+
+.show-all-movies {
+    display: none;
+}
+
+.show-all-series {
+    display: none;
+}
+
 .show-all-games:checked~.extra-list-games {
+    display: none;
+}
+
+.show-all-movies:checked~.extra-list-movies {
+    display: none;
+}
+
+.show-all-series:checked~.extra-list-series {
     display: none;
 }
 
@@ -24,6 +41,7 @@
 }
 
 .show-all-button {
+    color: white;
     border: 0.12em solid white;
     border-top-left-radius: 1em;
     border-bottom-right-radius: 1em;
